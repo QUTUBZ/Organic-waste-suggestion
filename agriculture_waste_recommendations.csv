@@ -1,0 +1,501 @@
+Plant Name,Soil Type,Temperature,Moisture,Rainfall,Growth Time,Growth Stage,Compost Waste Recommendations,Compost C:N Ratio,Compost Moisture Content,Compost Nitrogen Content,Compost pH Level
+Pumpkin,Loamy,21,76,178,46,Initial Stage,"Alfalfa Hay, Compost, Eggshells",25:1,60%,1.5%,6.0
+Tomato,Clay,34,41,41,41,Initial Stage,"Eggshells, Fish Emulsion, Rice Husk",25:1,60%,1.5%,6.0
+Radish,Loamy,29,38,14,179,Final Stage,"Worm Castings, Tree Leaves, Vegetable Scraps",35:1,50%,2.5%,6.5
+Zucchini,Loamy,25,39,110,174,Final Stage,"Chicken Manure, Vegetable Scraps, Tree Leaves",35:1,50%,2.5%,6.5
+Pumpkin,Sandy,22,73,156,167,Final Stage,"Coffee Grounds, Eggshells, Seaweed Extract",35:1,50%,2.5%,6.5
+Chili,Loamy,21,46,288,147,Final Stage,"Eggshells, Banana Peels, Grass Clippings",35:1,50%,2.5%,6.5
+Potato,Clay,33,67,230,51,Initial Stage,"Coffee Grounds, Compost, Seaweed Extract",25:1,60%,1.5%,6.0
+Brinjal,Loamy,25,36,156,149,Final Stage,"Vegetable Scraps, Compost, Alfalfa Hay",35:1,50%,2.5%,6.5
+Tomato,Sandy,25,75,37,79,Final Stage,"Fish Emulsion, Rice Husk, Chicken Manure",35:1,50%,2.5%,6.5
+Pumpkin,Sandy,18,42,96,43,Final Stage,"Alfalfa Hay, Mulch (Wood Chips), Seaweed Extract",35:1,50%,2.5%,6.5
+Mango,Clay,22,69,288,58,Initial Stage,"Corn Stalks, Tree Leaves, Coffee Grounds",25:1,60%,1.5%,6.0
+Watermelon,Sandy,17,71,253,154,Final Stage,"Rice Husk, Coconut Shells, Coffee Grounds",35:1,50%,2.5%,6.5
+Zucchini,Loamy,16,38,195,36,Final Stage,"Rice Husk, Vegetable Scraps, Fruit Scraps",35:1,50%,2.5%,6.5
+Garlic,Sandy,26,79,85,58,Initial Stage,"Coffee Grounds, Banana Peels, Compost",25:1,60%,1.5%,6.0
+Chili,Clay,20,56,9,168,Final Stage,"Vegetable Scraps, Rice Husk, Coffee Grounds",35:1,50%,2.5%,6.5
+Chili,Sandy,16,31,4,62,Final Stage,"Fruit Scraps, Vegetable Scraps, Coconut Shells",35:1,50%,2.5%,6.5
+Mango,Sandy,15,34,122,163,Final Stage,"Vegetable Scraps, Worm Castings, Corn Stalks",35:1,50%,2.5%,6.5
+Chili,Sandy,26,58,117,140,Final Stage,"Grass Clippings, Rice Husk, Sugarcane Bagasse",35:1,50%,2.5%,6.5
+Cucumber,Clay,26,66,293,108,Growth Stage,"Fruit Scraps, Eggshells, Corn Stalks",30:1,55%,2.0%,6.2
+Potato,Sandy,31,67,158,87,Growth Stage,"Tree Leaves, Corn Stalks, Sugarcane Bagasse",30:1,55%,2.0%,6.2
+Beetroot,Sandy,24,48,227,55,Initial Stage,"Worm Castings, Alfalfa Hay, Sugarcane Bagasse",25:1,60%,1.5%,6.0
+Peas,Loamy,30,37,215,58,Growth Stage,"Coffee Grounds, Alfalfa Hay, Pea Pods",30:1,55%,2.0%,6.2
+Garlic,Clay,29,77,183,33,Initial Stage,"Cow Manure, Rice Husk, Worm Castings",25:1,60%,1.5%,6.0
+Onion,Sandy,29,74,14,128,Final Stage,"Compost, Eggshells, Mulch (Wood Chips)",35:1,50%,2.5%,6.5
+Zucchini,Clay,33,30,156,170,Final Stage,"Corn Stalks, Pea Pods, Grass Clippings",35:1,50%,2.5%,6.5
+Lettuce,Sandy,26,51,135,68,Growth Stage,"Rice Husk, Vegetable Scraps, Coffee Grounds",30:1,55%,2.0%,6.2
+Radish,Sandy,34,46,260,44,Initial Stage,"Pea Pods, Fish Emulsion, Cow Manure",25:1,60%,1.5%,6.0
+Cabbage,Sandy,17,36,156,148,Final Stage,"Coconut Shells, Corn Stalks, Rice Husk",35:1,50%,2.5%,6.5
+Brinjal,Loamy,19,54,46,58,Final Stage,"Tree Leaves, Fruit Scraps, Corn Stalks",35:1,50%,2.5%,6.5
+Potato,Loamy,33,74,172,104,Growth Stage,"Rice Husk, Eggshells, Grass Clippings",30:1,55%,2.0%,6.2
+Pumpkin,Loamy,21,33,129,145,Final Stage,"Chicken Manure, Fish Emulsion, Corn Stalks",35:1,50%,2.5%,6.5
+Brinjal,Clay,23,65,94,61,Growth Stage,"Rice Husk, Chicken Manure, Banana Peels",30:1,55%,2.0%,6.2
+Mango,Clay,21,35,114,159,Final Stage,"Cow Manure, Vegetable Scraps, Tree Leaves",35:1,50%,2.5%,6.5
+Pumpkin,Loamy,32,60,242,113,Growth Stage,"Fruit Scraps, Coffee Grounds, Banana Peels",30:1,55%,2.0%,6.2
+Brinjal,Clay,18,48,291,51,Final Stage,"Pea Pods, Coconut Shells, Cow Manure",35:1,50%,2.5%,6.5
+Broccoli,Sandy,28,73,281,56,Initial Stage,"Grass Clippings, Worm Castings, Mulch (Wood Chips)",25:1,60%,1.5%,6.0
+Broccoli,Sandy,32,68,298,110,Growth Stage,"Corn Stalks, Coffee Grounds, Mulch (Wood Chips)",30:1,55%,2.0%,6.2
+Lettuce,Sandy,23,56,282,155,Final Stage,"Pea Pods, Fruit Scraps, Banana Peels",35:1,50%,2.5%,6.5
+Cabbage,Loamy,16,39,68,121,Final Stage,"Compost, Seaweed Extract, Fruit Scraps",35:1,50%,2.5%,6.5
+Cucumber,Clay,34,55,147,50,Initial Stage,"Vegetable Scraps, Corn Stalks, Chicken Manure",25:1,60%,1.5%,6.0
+Broccoli,Loamy,29,48,10,76,Final Stage,"Cow Manure, Worm Castings, Banana Peels",35:1,50%,2.5%,6.5
+Onion,Clay,21,68,253,130,Final Stage,"Vegetable Scraps, Coconut Shells, Mulch (Wood Chips)",35:1,50%,2.5%,6.5
+Onion,Sandy,26,32,37,113,Final Stage,"Eggshells, Chicken Manure, Cow Manure",35:1,50%,2.5%,6.5
+Zucchini,Loamy,22,74,133,35,Initial Stage,"Sugarcane Bagasse, Compost, Corn Stalks",25:1,60%,1.5%,6.0
+Pumpkin,Clay,29,42,199,176,Final Stage,"Seaweed Extract, Vegetable Scraps, Fish Emulsion",35:1,50%,2.5%,6.5
+Lettuce,Clay,17,79,22,160,Final Stage,"Coffee Grounds, Vegetable Scraps, Eggshells",35:1,50%,2.5%,6.5
+Onion,Sandy,28,57,217,30,Initial Stage,"Rice Husk, Fruit Scraps, Pea Pods",25:1,60%,1.5%,6.0
+Watermelon,Loamy,31,49,140,87,Growth Stage,"Mulch (Wood Chips), Eggshells, Sugarcane Bagasse",30:1,55%,2.0%,6.2
+Mango,Loamy,18,57,103,153,Final Stage,"Coconut Shells, Fish Emulsion, Worm Castings",35:1,50%,2.5%,6.5
+Watermelon,Loamy,32,37,209,44,Growth Stage,"Alfalfa Hay, Coconut Shells, Fruit Scraps",30:1,55%,2.0%,6.2
+Beetroot,Sandy,22,70,110,93,Growth Stage,"Banana Peels, Coconut Shells, Rice Husk",30:1,55%,2.0%,6.2
+Beetroot,Loamy,18,68,103,54,Final Stage,"Coffee Grounds, Chicken Manure, Alfalfa Hay",35:1,50%,2.5%,6.5
+Radish,Sandy,16,30,170,53,Final Stage,"Fish Emulsion, Seaweed Extract, Cow Manure",35:1,50%,2.5%,6.5
+Cabbage,Sandy,20,32,132,41,Growth Stage,"Compost, Coffee Grounds, Eggshells",30:1,55%,2.0%,6.2
+Tomato,Sandy,24,42,292,47,Initial Stage,"Cow Manure, Pea Pods, Seaweed Extract",25:1,60%,1.5%,6.0
+Watermelon,Clay,18,57,126,44,Final Stage,"Banana Peels, Sugarcane Bagasse, Seaweed Extract",35:1,50%,2.5%,6.5
+Mango,Loamy,32,78,105,56,Initial Stage,"Cow Manure, Seaweed Extract, Tree Leaves",25:1,60%,1.5%,6.0
+Peas,Loamy,26,54,91,101,Growth Stage,"Cow Manure, Fruit Scraps, Tree Leaves",30:1,55%,2.0%,6.2
+Cucumber,Sandy,16,62,286,89,Final Stage,"Pea Pods, Vegetable Scraps, Worm Castings",35:1,50%,2.5%,6.5
+Cauliflower,Sandy,24,67,50,174,Final Stage,"Tree Leaves, Chicken Manure, Rice Husk",35:1,50%,2.5%,6.5
+Zucchini,Loamy,18,35,28,122,Final Stage,"Fruit Scraps, Eggshells, Chicken Manure",35:1,50%,2.5%,6.5
+Watermelon,Sandy,28,73,295,82,Growth Stage,"Tree Leaves, Eggshells, Coconut Shells",30:1,55%,2.0%,6.2
+Cauliflower,Loamy,30,74,296,37,Initial Stage,"Fish Emulsion, Sugarcane Bagasse, Compost",25:1,60%,1.5%,6.0
+Lettuce,Clay,29,61,213,108,Growth Stage,"Tree Leaves, Cow Manure, Coffee Grounds",30:1,55%,2.0%,6.2
+Beetroot,Sandy,22,74,266,56,Initial Stage,"Pea Pods, Worm Castings, Fruit Scraps",25:1,60%,1.5%,6.0
+Cabbage,Loamy,28,76,256,79,Growth Stage,"Vegetable Scraps, Eggshells, Grass Clippings",30:1,55%,2.0%,6.2
+Cucumber,Sandy,22,50,100,160,Final Stage,"Mulch (Wood Chips), Chicken Manure, Corn Stalks",35:1,50%,2.5%,6.5
+Lettuce,Loamy,30,45,109,122,Final Stage,"Compost, Vegetable Scraps, Rice Husk",35:1,50%,2.5%,6.5
+Garlic,Loamy,27,50,181,53,Initial Stage,"Fruit Scraps, Sugarcane Bagasse, Corn Stalks",25:1,60%,1.5%,6.0
+Garlic,Sandy,32,40,0,89,Final Stage,"Banana Peels, Seaweed Extract, Coconut Shells",35:1,50%,2.5%,6.5
+Lettuce,Clay,29,66,54,151,Final Stage,"Eggshells, Sugarcane Bagasse, Chicken Manure",35:1,50%,2.5%,6.5
+Brinjal,Loamy,27,65,148,160,Final Stage,"Chicken Manure, Sugarcane Bagasse, Corn Stalks",35:1,50%,2.5%,6.5
+Mango,Loamy,23,64,136,177,Final Stage,"Fruit Scraps, Rice Husk, Eggshells",35:1,50%,2.5%,6.5
+Cauliflower,Loamy,29,48,201,75,Growth Stage,"Compost, Fish Emulsion, Vegetable Scraps",30:1,55%,2.0%,6.2
+Peas,Clay,27,49,116,44,Initial Stage,"Corn Stalks, Vegetable Scraps, Tree Leaves",25:1,60%,1.5%,6.0
+Brinjal,Clay,15,47,153,46,Final Stage,"Coconut Shells, Alfalfa Hay, Coffee Grounds",35:1,50%,2.5%,6.5
+Watermelon,Sandy,21,76,290,155,Final Stage,"Rice Husk, Fruit Scraps, Chicken Manure",35:1,50%,2.5%,6.5
+Potato,Clay,23,70,62,113,Growth Stage,"Worm Castings, Banana Peels, Compost",30:1,55%,2.0%,6.2
+Zucchini,Sandy,15,78,243,38,Final Stage,"Coconut Shells, Worm Castings, Chicken Manure",35:1,50%,2.5%,6.5
+Radish,Sandy,26,43,24,92,Final Stage,"Fruit Scraps, Compost, Coffee Grounds",35:1,50%,2.5%,6.5
+Potato,Clay,22,44,89,146,Final Stage,"Coffee Grounds, Worm Castings, Alfalfa Hay",35:1,50%,2.5%,6.5
+Watermelon,Sandy,25,60,74,159,Final Stage,"Mulch (Wood Chips), Grass Clippings, Pea Pods",35:1,50%,2.5%,6.5
+Radish,Clay,33,30,293,117,Growth Stage,"Rice Husk, Cow Manure, Fruit Scraps",30:1,55%,2.0%,6.2
+Tomato,Sandy,31,32,209,101,Growth Stage,"Fish Emulsion, Eggshells, Alfalfa Hay",30:1,55%,2.0%,6.2
+Beetroot,Clay,22,45,16,168,Final Stage,"Worm Castings, Tree Leaves, Chicken Manure",35:1,50%,2.5%,6.5
+Mango,Clay,17,52,127,93,Final Stage,"Seaweed Extract, Compost, Banana Peels",35:1,50%,2.5%,6.5
+Chili,Sandy,17,40,250,101,Final Stage,"Fruit Scraps, Corn Stalks, Pea Pods",35:1,50%,2.5%,6.5
+Radish,Loamy,15,41,178,50,Final Stage,"Cow Manure, Tree Leaves, Eggshells",35:1,50%,2.5%,6.5
+Potato,Sandy,19,39,181,47,Final Stage,"Rice Husk, Pea Pods, Mulch (Wood Chips)",35:1,50%,2.5%,6.5
+Zucchini,Clay,24,61,151,93,Growth Stage,"Rice Husk, Fruit Scraps, Eggshells",30:1,55%,2.0%,6.2
+Chili,Loamy,21,45,24,111,Final Stage,"Coconut Shells, Banana Peels, Compost",35:1,50%,2.5%,6.5
+Garlic,Sandy,23,37,179,139,Final Stage,"Worm Castings, Eggshells, Pea Pods",35:1,50%,2.5%,6.5
+Beetroot,Sandy,21,67,197,124,Final Stage,"Coffee Grounds, Banana Peels, Grass Clippings",35:1,50%,2.5%,6.5
+Lettuce,Sandy,23,41,160,61,Growth Stage,"Vegetable Scraps, Fruit Scraps, Alfalfa Hay",30:1,55%,2.0%,6.2
+Cauliflower,Loamy,22,53,176,40,Initial Stage,"Eggshells, Coconut Shells, Grass Clippings",25:1,60%,1.5%,6.0
+Cucumber,Clay,26,57,284,74,Growth Stage,"Vegetable Scraps, Rice Husk, Worm Castings",30:1,55%,2.0%,6.2
+Onion,Sandy,16,37,62,62,Final Stage,"Grass Clippings, Sugarcane Bagasse, Coconut Shells",35:1,50%,2.5%,6.5
+Radish,Sandy,15,57,149,131,Final Stage,"Vegetable Scraps, Corn Stalks, Eggshells",35:1,50%,2.5%,6.5
+Onion,Sandy,30,65,153,165,Final Stage,"Chicken Manure, Fish Emulsion, Coconut Shells",35:1,50%,2.5%,6.5
+Cabbage,Sandy,19,55,155,40,Final Stage,"Fruit Scraps, Chicken Manure, Coffee Grounds",35:1,50%,2.5%,6.5
+Onion,Sandy,17,37,48,117,Final Stage,"Vegetable Scraps, Seaweed Extract, Eggshells",35:1,50%,2.5%,6.5
+Pumpkin,Clay,26,79,83,70,Growth Stage,"Sugarcane Bagasse, Pea Pods, Seaweed Extract",30:1,55%,2.0%,6.2
+Broccoli,Clay,22,57,176,174,Final Stage,"Cow Manure, Sugarcane Bagasse, Worm Castings",35:1,50%,2.5%,6.5
+Broccoli,Sandy,17,57,147,105,Final Stage,"Vegetable Scraps, Coffee Grounds, Alfalfa Hay",35:1,50%,2.5%,6.5
+Cauliflower,Loamy,15,66,117,150,Final Stage,"Mulch (Wood Chips), Pea Pods, Chicken Manure",35:1,50%,2.5%,6.5
+Peas,Clay,17,70,62,75,Final Stage,"Banana Peels, Pea Pods, Coconut Shells",35:1,50%,2.5%,6.5
+Tomato,Loamy,19,65,188,109,Final Stage,"Cow Manure, Chicken Manure, Eggshells",35:1,50%,2.5%,6.5
+Radish,Clay,29,56,48,83,Final Stage,"Vegetable Scraps, Seaweed Extract, Worm Castings",35:1,50%,2.5%,6.5
+Watermelon,Sandy,28,46,256,115,Growth Stage,"Cow Manure, Rice Husk, Grass Clippings",30:1,55%,2.0%,6.2
+Lettuce,Clay,17,38,223,121,Final Stage,"Chicken Manure, Worm Castings, Fruit Scraps",35:1,50%,2.5%,6.5
+Beetroot,Sandy,15,62,140,177,Final Stage,"Alfalfa Hay, Eggshells, Pea Pods",35:1,50%,2.5%,6.5
+Tomato,Clay,19,49,214,126,Final Stage,"Tree Leaves, Sugarcane Bagasse, Corn Stalks",35:1,50%,2.5%,6.5
+Pumpkin,Sandy,28,42,210,31,Initial Stage,"Cow Manure, Tree Leaves, Sugarcane Bagasse",25:1,60%,1.5%,6.0
+Spinach,Sandy,21,57,31,62,Final Stage,"Sugarcane Bagasse, Coffee Grounds, Pea Pods",35:1,50%,2.5%,6.5
+Potato,Sandy,23,77,157,106,Growth Stage,"Compost, Rice Husk, Pea Pods",30:1,55%,2.0%,6.2
+Peas,Sandy,29,58,284,145,Final Stage,"Seaweed Extract, Worm Castings, Eggshells",35:1,50%,2.5%,6.5
+Beetroot,Loamy,29,42,285,179,Final Stage,"Tree Leaves, Banana Peels, Grass Clippings",35:1,50%,2.5%,6.5
+Pumpkin,Sandy,24,75,143,132,Final Stage,"Sugarcane Bagasse, Eggshells, Banana Peels",35:1,50%,2.5%,6.5
+Pumpkin,Loamy,27,64,18,132,Final Stage,"Seaweed Extract, Banana Peels, Vegetable Scraps",35:1,50%,2.5%,6.5
+Spinach,Loamy,33,35,17,119,Final Stage,"Seaweed Extract, Pea Pods, Rice Husk",35:1,50%,2.5%,6.5
+Mango,Sandy,21,47,256,151,Final Stage,"Alfalfa Hay, Mulch (Wood Chips), Eggshells",35:1,50%,2.5%,6.5
+Cucumber,Loamy,31,34,77,172,Final Stage,"Compost, Vegetable Scraps, Fish Emulsion",35:1,50%,2.5%,6.5
+Mango,Clay,34,76,174,135,Final Stage,"Sugarcane Bagasse, Coconut Shells, Pea Pods",35:1,50%,2.5%,6.5
+Spinach,Sandy,18,54,193,148,Final Stage,"Worm Castings, Banana Peels, Tree Leaves",35:1,50%,2.5%,6.5
+Tomato,Loamy,19,31,112,78,Final Stage,"Corn Stalks, Grass Clippings, Chicken Manure",35:1,50%,2.5%,6.5
+Lettuce,Sandy,21,39,113,133,Final Stage,"Vegetable Scraps, Compost, Rice Husk",35:1,50%,2.5%,6.5
+Onion,Sandy,27,59,221,90,Growth Stage,"Banana Peels, Grass Clippings, Coffee Grounds",30:1,55%,2.0%,6.2
+Spinach,Sandy,29,79,165,152,Final Stage,"Mulch (Wood Chips), Coconut Shells, Worm Castings",35:1,50%,2.5%,6.5
+Garlic,Loamy,25,74,131,163,Final Stage,"Compost, Fish Emulsion, Tree Leaves",35:1,50%,2.5%,6.5
+Spinach,Clay,18,34,263,38,Final Stage,"Chicken Manure, Coffee Grounds, Mulch (Wood Chips)",35:1,50%,2.5%,6.5
+Lettuce,Clay,27,62,54,35,Initial Stage,"Worm Castings, Chicken Manure, Seaweed Extract",25:1,60%,1.5%,6.0
+Spinach,Loamy,21,30,130,102,Growth Stage,"Worm Castings, Coconut Shells, Compost",30:1,55%,2.0%,6.2
+Garlic,Sandy,33,47,287,132,Final Stage,"Cow Manure, Worm Castings, Alfalfa Hay",35:1,50%,2.5%,6.5
+Garlic,Loamy,16,61,265,70,Final Stage,"Tree Leaves, Coconut Shells, Chicken Manure",35:1,50%,2.5%,6.5
+Broccoli,Loamy,24,76,161,143,Final Stage,"Banana Peels, Corn Stalks, Coffee Grounds",35:1,50%,2.5%,6.5
+Beetroot,Loamy,27,78,86,37,Initial Stage,"Cow Manure, Fruit Scraps, Grass Clippings",25:1,60%,1.5%,6.0
+Cauliflower,Sandy,20,40,54,101,Growth Stage,"Fish Emulsion, Tree Leaves, Rice Husk",30:1,55%,2.0%,6.2
+Chili,Loamy,26,50,287,121,Final Stage,"Chicken Manure, Coffee Grounds, Eggshells",35:1,50%,2.5%,6.5
+Carrot,Sandy,26,55,177,91,Growth Stage,"Fruit Scraps, Vegetable Scraps, Pea Pods",30:1,55%,2.0%,6.2
+Mango,Loamy,34,54,7,113,Final Stage,"Fruit Scraps, Tree Leaves, Coffee Grounds",35:1,50%,2.5%,6.5
+Lettuce,Clay,25,51,246,91,Growth Stage,"Compost, Pea Pods, Worm Castings",30:1,55%,2.0%,6.2
+Cabbage,Loamy,21,56,254,140,Final Stage,"Mulch (Wood Chips), Banana Peels, Grass Clippings",35:1,50%,2.5%,6.5
+Broccoli,Loamy,15,78,53,156,Final Stage,"Worm Castings, Coconut Shells, Banana Peels",35:1,50%,2.5%,6.5
+Pumpkin,Clay,15,42,248,36,Final Stage,"Worm Castings, Seaweed Extract, Coconut Shells",35:1,50%,2.5%,6.5
+Beetroot,Sandy,34,62,238,113,Growth Stage,"Fruit Scraps, Cow Manure, Fish Emulsion",30:1,55%,2.0%,6.2
+Zucchini,Sandy,27,63,228,161,Final Stage,"Compost, Coconut Shells, Rice Husk",35:1,50%,2.5%,6.5
+Watermelon,Loamy,23,70,66,163,Final Stage,"Fruit Scraps, Mulch (Wood Chips), Tree Leaves",35:1,50%,2.5%,6.5
+Cucumber,Clay,17,64,50,87,Final Stage,"Corn Stalks, Vegetable Scraps, Compost",35:1,50%,2.5%,6.5
+Zucchini,Sandy,21,30,96,51,Growth Stage,"Pea Pods, Tree Leaves, Chicken Manure",30:1,55%,2.0%,6.2
+Chili,Loamy,20,50,91,156,Final Stage,"Compost, Fruit Scraps, Coffee Grounds",35:1,50%,2.5%,6.5
+Carrot,Clay,22,77,263,32,Initial Stage,"Grass Clippings, Sugarcane Bagasse, Fish Emulsion",25:1,60%,1.5%,6.0
+Chili,Sandy,23,35,290,156,Final Stage,"Tree Leaves, Sugarcane Bagasse, Rice Husk",35:1,50%,2.5%,6.5
+Zucchini,Sandy,19,57,95,70,Final Stage,"Coffee Grounds, Seaweed Extract, Alfalfa Hay",35:1,50%,2.5%,6.5
+Cucumber,Clay,15,46,87,135,Final Stage,"Eggshells, Banana Peels, Compost",35:1,50%,2.5%,6.5
+Peas,Clay,33,34,77,43,Growth Stage,"Sugarcane Bagasse, Compost, Banana Peels",30:1,55%,2.0%,6.2
+Carrot,Clay,24,60,287,41,Initial Stage,"Grass Clippings, Mulch (Wood Chips), Coconut Shells",25:1,60%,1.5%,6.0
+Pumpkin,Clay,26,34,119,116,Growth Stage,"Tree Leaves, Vegetable Scraps, Sugarcane Bagasse",30:1,55%,2.0%,6.2
+Spinach,Loamy,29,67,164,41,Initial Stage,"Eggshells, Seaweed Extract, Cow Manure",25:1,60%,1.5%,6.0
+Cabbage,Clay,23,32,181,170,Final Stage,"Chicken Manure, Cow Manure, Eggshells",35:1,50%,2.5%,6.5
+Carrot,Sandy,34,52,222,54,Initial Stage,"Banana Peels, Chicken Manure, Sugarcane Bagasse",25:1,60%,1.5%,6.0
+Cauliflower,Sandy,31,66,6,74,Final Stage,"Alfalfa Hay, Tree Leaves, Pea Pods",35:1,50%,2.5%,6.5
+Tomato,Loamy,31,66,262,151,Final Stage,"Pea Pods, Coffee Grounds, Mulch (Wood Chips)",35:1,50%,2.5%,6.5
+Lettuce,Sandy,34,39,160,176,Final Stage,"Pea Pods, Sugarcane Bagasse, Worm Castings",35:1,50%,2.5%,6.5
+Zucchini,Sandy,26,39,150,84,Growth Stage,"Vegetable Scraps, Tree Leaves, Worm Castings",30:1,55%,2.0%,6.2
+Cabbage,Clay,21,48,84,129,Final Stage,"Cow Manure, Banana Peels, Compost",35:1,50%,2.5%,6.5
+Mango,Sandy,16,46,146,165,Final Stage,"Worm Castings, Chicken Manure, Cow Manure",35:1,50%,2.5%,6.5
+Beetroot,Loamy,17,50,111,148,Final Stage,"Worm Castings, Sugarcane Bagasse, Alfalfa Hay",35:1,50%,2.5%,6.5
+Zucchini,Clay,31,43,35,82,Final Stage,"Seaweed Extract, Pea Pods, Fish Emulsion",35:1,50%,2.5%,6.5
+Radish,Clay,19,38,284,61,Final Stage,"Pea Pods, Worm Castings, Chicken Manure",35:1,50%,2.5%,6.5
+Potato,Loamy,31,75,187,80,Growth Stage,"Fish Emulsion, Cow Manure, Banana Peels",30:1,55%,2.0%,6.2
+Broccoli,Clay,31,30,81,73,Growth Stage,"Alfalfa Hay, Sugarcane Bagasse, Banana Peels",30:1,55%,2.0%,6.2
+Onion,Clay,31,74,1,111,Final Stage,"Banana Peels, Sugarcane Bagasse, Coconut Shells",35:1,50%,2.5%,6.5
+Broccoli,Loamy,16,42,196,175,Final Stage,"Fish Emulsion, Fruit Scraps, Rice Husk",35:1,50%,2.5%,6.5
+Potato,Clay,16,33,10,179,Final Stage,"Coffee Grounds, Chicken Manure, Seaweed Extract",35:1,50%,2.5%,6.5
+Cauliflower,Loamy,19,30,233,66,Final Stage,"Cow Manure, Alfalfa Hay, Banana Peels",35:1,50%,2.5%,6.5
+Lettuce,Loamy,15,78,194,125,Final Stage,"Rice Husk, Worm Castings, Grass Clippings",35:1,50%,2.5%,6.5
+Carrot,Sandy,15,69,118,85,Final Stage,"Compost, Pea Pods, Corn Stalks",35:1,50%,2.5%,6.5
+Peas,Sandy,33,61,19,134,Final Stage,"Vegetable Scraps, Fish Emulsion, Coffee Grounds",35:1,50%,2.5%,6.5
+Watermelon,Clay,16,63,260,88,Final Stage,"Vegetable Scraps, Mulch (Wood Chips), Cow Manure",35:1,50%,2.5%,6.5
+Onion,Clay,26,57,292,160,Final Stage,"Grass Clippings, Coconut Shells, Sugarcane Bagasse",35:1,50%,2.5%,6.5
+Carrot,Loamy,20,60,255,64,Growth Stage,"Chicken Manure, Compost, Seaweed Extract",30:1,55%,2.0%,6.2
+Peas,Clay,18,37,221,122,Final Stage,"Seaweed Extract, Worm Castings, Banana Peels",35:1,50%,2.5%,6.5
+Chili,Loamy,25,68,225,126,Final Stage,"Chicken Manure, Coconut Shells, Coffee Grounds",35:1,50%,2.5%,6.5
+Chili,Loamy,31,55,52,164,Final Stage,"Coffee Grounds, Worm Castings, Fish Emulsion",35:1,50%,2.5%,6.5
+Garlic,Clay,20,63,279,105,Growth Stage,"Worm Castings, Pea Pods, Coconut Shells",30:1,55%,2.0%,6.2
+Cucumber,Loamy,19,32,80,78,Final Stage,"Cow Manure, Mulch (Wood Chips), Coconut Shells",35:1,50%,2.5%,6.5
+Carrot,Sandy,34,79,201,123,Final Stage,"Mulch (Wood Chips), Fish Emulsion, Coconut Shells",35:1,50%,2.5%,6.5
+Radish,Clay,16,41,157,53,Final Stage,"Eggshells, Vegetable Scraps, Compost",35:1,50%,2.5%,6.5
+Lettuce,Sandy,20,30,119,177,Final Stage,"Tree Leaves, Chicken Manure, Rice Husk",35:1,50%,2.5%,6.5
+Zucchini,Clay,25,73,58,66,Growth Stage,"Tree Leaves, Vegetable Scraps, Coffee Grounds",30:1,55%,2.0%,6.2
+Mango,Loamy,30,34,214,33,Growth Stage,"Rice Husk, Tree Leaves, Compost",30:1,55%,2.0%,6.2
+Cauliflower,Clay,30,59,127,137,Final Stage,"Tree Leaves, Sugarcane Bagasse, Coconut Shells",35:1,50%,2.5%,6.5
+Spinach,Sandy,15,59,223,155,Final Stage,"Corn Stalks, Pea Pods, Compost",35:1,50%,2.5%,6.5
+Beetroot,Loamy,23,46,208,49,Initial Stage,"Chicken Manure, Mulch (Wood Chips), Seaweed Extract",25:1,60%,1.5%,6.0
+Garlic,Clay,20,77,114,79,Growth Stage,"Corn Stalks, Sugarcane Bagasse, Seaweed Extract",30:1,55%,2.0%,6.2
+Cabbage,Clay,30,76,208,125,Final Stage,"Corn Stalks, Chicken Manure, Eggshells",35:1,50%,2.5%,6.5
+Brinjal,Clay,17,52,13,134,Final Stage,"Vegetable Scraps, Chicken Manure, Pea Pods",35:1,50%,2.5%,6.5
+Cabbage,Sandy,34,44,8,146,Final Stage,"Seaweed Extract, Fish Emulsion, Vegetable Scraps",35:1,50%,2.5%,6.5
+Radish,Sandy,18,66,39,127,Final Stage,"Worm Castings, Pea Pods, Fish Emulsion",35:1,50%,2.5%,6.5
+Potato,Clay,33,50,236,95,Growth Stage,"Seaweed Extract, Tree Leaves, Corn Stalks",30:1,55%,2.0%,6.2
+Carrot,Loamy,17,43,280,108,Final Stage,"Coffee Grounds, Corn Stalks, Coconut Shells",35:1,50%,2.5%,6.5
+Mango,Loamy,33,31,200,35,Growth Stage,"Coconut Shells, Chicken Manure, Banana Peels",30:1,55%,2.0%,6.2
+Tomato,Sandy,34,40,245,68,Growth Stage,"Grass Clippings, Rice Husk, Banana Peels",30:1,55%,2.0%,6.2
+Tomato,Loamy,21,68,277,144,Final Stage,"Compost, Sugarcane Bagasse, Chicken Manure",35:1,50%,2.5%,6.5
+Carrot,Sandy,34,67,234,154,Final Stage,"Sugarcane Bagasse, Worm Castings, Mulch (Wood Chips)",35:1,50%,2.5%,6.5
+Onion,Clay,23,63,3,41,Initial Stage,"Compost, Mulch (Wood Chips), Coffee Grounds",25:1,60%,1.5%,6.0
+Garlic,Sandy,15,67,153,160,Final Stage,"Cow Manure, Banana Peels, Alfalfa Hay",35:1,50%,2.5%,6.5
+Potato,Sandy,22,79,28,47,Initial Stage,"Coffee Grounds, Banana Peels, Corn Stalks",25:1,60%,1.5%,6.0
+Onion,Clay,21,63,108,69,Growth Stage,"Coconut Shells, Sugarcane Bagasse, Compost",30:1,55%,2.0%,6.2
+Watermelon,Loamy,32,47,97,50,Initial Stage,"Compost, Coconut Shells, Fish Emulsion",25:1,60%,1.5%,6.0
+Mango,Sandy,22,59,214,172,Final Stage,"Worm Castings, Coffee Grounds, Vegetable Scraps",35:1,50%,2.5%,6.5
+Cucumber,Sandy,15,44,292,128,Final Stage,"Chicken Manure, Seaweed Extract, Coconut Shells",35:1,50%,2.5%,6.5
+Broccoli,Clay,25,56,74,55,Initial Stage,"Eggshells, Sugarcane Bagasse, Pea Pods",25:1,60%,1.5%,6.0
+Peas,Loamy,32,63,145,37,Initial Stage,"Coffee Grounds, Grass Clippings, Corn Stalks",25:1,60%,1.5%,6.0
+Cauliflower,Sandy,24,67,127,129,Final Stage,"Chicken Manure, Alfalfa Hay, Fruit Scraps",35:1,50%,2.5%,6.5
+Potato,Clay,17,62,41,116,Final Stage,"Rice Husk, Pea Pods, Fish Emulsion",35:1,50%,2.5%,6.5
+Cucumber,Sandy,21,53,40,71,Final Stage,"Alfalfa Hay, Compost, Cow Manure",35:1,50%,2.5%,6.5
+Garlic,Clay,30,44,33,43,Initial Stage,"Tree Leaves, Rice Husk, Corn Stalks",25:1,60%,1.5%,6.0
+Tomato,Loamy,30,59,16,107,Final Stage,"Mulch (Wood Chips), Fish Emulsion, Compost",35:1,50%,2.5%,6.5
+Brinjal,Loamy,34,71,164,31,Initial Stage,"Mulch (Wood Chips), Compost, Banana Peels",25:1,60%,1.5%,6.0
+Brinjal,Loamy,31,46,152,148,Final Stage,"Seaweed Extract, Coconut Shells, Fruit Scraps",35:1,50%,2.5%,6.5
+Spinach,Loamy,16,34,75,66,Final Stage,"Coconut Shells, Fruit Scraps, Coffee Grounds",35:1,50%,2.5%,6.5
+Watermelon,Sandy,15,58,86,98,Final Stage,"Coffee Grounds, Coconut Shells, Eggshells",35:1,50%,2.5%,6.5
+Mango,Sandy,30,33,116,70,Growth Stage,"Grass Clippings, Chicken Manure, Eggshells",30:1,55%,2.0%,6.2
+Onion,Loamy,26,39,26,91,Final Stage,"Fish Emulsion, Tree Leaves, Banana Peels",35:1,50%,2.5%,6.5
+Cabbage,Loamy,19,46,286,89,Final Stage,"Pea Pods, Fruit Scraps, Alfalfa Hay",35:1,50%,2.5%,6.5
+Tomato,Loamy,19,39,133,154,Final Stage,"Fish Emulsion, Seaweed Extract, Compost",35:1,50%,2.5%,6.5
+Watermelon,Sandy,23,46,218,140,Final Stage,"Sugarcane Bagasse, Rice Husk, Tree Leaves",35:1,50%,2.5%,6.5
+Zucchini,Loamy,23,49,167,43,Initial Stage,"Sugarcane Bagasse, Eggshells, Vegetable Scraps",25:1,60%,1.5%,6.0
+Spinach,Loamy,17,53,97,113,Final Stage,"Compost, Seaweed Extract, Alfalfa Hay",35:1,50%,2.5%,6.5
+Onion,Loamy,33,34,267,159,Final Stage,"Grass Clippings, Vegetable Scraps, Banana Peels",35:1,50%,2.5%,6.5
+Cabbage,Clay,30,63,236,99,Growth Stage,"Rice Husk, Grass Clippings, Seaweed Extract",30:1,55%,2.0%,6.2
+Peas,Loamy,30,35,172,174,Final Stage,"Compost, Worm Castings, Sugarcane Bagasse",35:1,50%,2.5%,6.5
+Zucchini,Clay,17,31,189,152,Final Stage,"Banana Peels, Eggshells, Fruit Scraps",35:1,50%,2.5%,6.5
+Mango,Clay,34,42,121,118,Growth Stage,"Corn Stalks, Coconut Shells, Fish Emulsion",30:1,55%,2.0%,6.2
+Radish,Loamy,15,72,45,57,Final Stage,"Worm Castings, Compost, Coconut Shells",35:1,50%,2.5%,6.5
+Mango,Clay,34,72,63,95,Growth Stage,"Coffee Grounds, Banana Peels, Sugarcane Bagasse",30:1,55%,2.0%,6.2
+Broccoli,Loamy,25,77,129,34,Initial Stage,"Vegetable Scraps, Coffee Grounds, Worm Castings",25:1,60%,1.5%,6.0
+Cauliflower,Sandy,31,40,192,74,Growth Stage,"Cow Manure, Rice Husk, Grass Clippings",30:1,55%,2.0%,6.2
+Potato,Sandy,22,76,180,76,Growth Stage,"Cow Manure, Eggshells, Fruit Scraps",30:1,55%,2.0%,6.2
+Spinach,Sandy,18,52,291,60,Final Stage,"Tree Leaves, Rice Husk, Eggshells",35:1,50%,2.5%,6.5
+Chili,Sandy,20,45,281,168,Final Stage,"Eggshells, Fruit Scraps, Alfalfa Hay",35:1,50%,2.5%,6.5
+Cauliflower,Clay,22,60,28,39,Initial Stage,"Compost, Alfalfa Hay, Grass Clippings",25:1,60%,1.5%,6.0
+Cauliflower,Loamy,34,40,148,147,Final Stage,"Seaweed Extract, Cow Manure, Alfalfa Hay",35:1,50%,2.5%,6.5
+Peas,Loamy,17,45,266,43,Final Stage,"Worm Castings, Mulch (Wood Chips), Fish Emulsion",35:1,50%,2.5%,6.5
+Spinach,Loamy,30,37,295,109,Growth Stage,"Alfalfa Hay, Chicken Manure, Banana Peels",30:1,55%,2.0%,6.2
+Cabbage,Sandy,17,33,10,122,Final Stage,"Compost, Fish Emulsion, Banana Peels",35:1,50%,2.5%,6.5
+Cauliflower,Sandy,32,69,163,39,Initial Stage,"Tree Leaves, Fruit Scraps, Compost",25:1,60%,1.5%,6.0
+Garlic,Loamy,28,33,112,105,Growth Stage,"Cow Manure, Mulch (Wood Chips), Eggshells",30:1,55%,2.0%,6.2
+Tomato,Sandy,32,54,186,123,Final Stage,"Rice Husk, Cow Manure, Coffee Grounds",35:1,50%,2.5%,6.5
+Cabbage,Loamy,16,32,294,134,Final Stage,"Sugarcane Bagasse, Pea Pods, Compost",35:1,50%,2.5%,6.5
+Zucchini,Loamy,17,61,231,30,Final Stage,"Corn Stalks, Fruit Scraps, Banana Peels",35:1,50%,2.5%,6.5
+Spinach,Loamy,30,32,226,162,Final Stage,"Worm Castings, Sugarcane Bagasse, Pea Pods",35:1,50%,2.5%,6.5
+Peas,Loamy,23,56,97,49,Initial Stage,"Mulch (Wood Chips), Worm Castings, Fruit Scraps",25:1,60%,1.5%,6.0
+Broccoli,Loamy,18,58,54,37,Final Stage,"Seaweed Extract, Eggshells, Coffee Grounds",35:1,50%,2.5%,6.5
+Chili,Loamy,15,61,110,30,Final Stage,"Eggshells, Pea Pods, Coconut Shells",35:1,50%,2.5%,6.5
+Radish,Loamy,18,79,151,86,Final Stage,"Cow Manure, Seaweed Extract, Fruit Scraps",35:1,50%,2.5%,6.5
+Potato,Sandy,15,48,245,93,Final Stage,"Compost, Chicken Manure, Sugarcane Bagasse",35:1,50%,2.5%,6.5
+Garlic,Loamy,28,50,68,147,Final Stage,"Vegetable Scraps, Grass Clippings, Alfalfa Hay",35:1,50%,2.5%,6.5
+Pumpkin,Loamy,30,34,288,57,Growth Stage,"Cow Manure, Banana Peels, Corn Stalks",30:1,55%,2.0%,6.2
+Onion,Sandy,34,47,249,150,Final Stage,"Seaweed Extract, Grass Clippings, Chicken Manure",35:1,50%,2.5%,6.5
+Cauliflower,Sandy,22,57,35,136,Final Stage,"Chicken Manure, Grass Clippings, Tree Leaves",35:1,50%,2.5%,6.5
+Potato,Sandy,21,71,238,78,Growth Stage,"Pea Pods, Corn Stalks, Cow Manure",30:1,55%,2.0%,6.2
+Chili,Loamy,17,51,147,149,Final Stage,"Coconut Shells, Seaweed Extract, Banana Peels",35:1,50%,2.5%,6.5
+Cabbage,Clay,31,50,226,73,Growth Stage,"Corn Stalks, Tree Leaves, Coffee Grounds",30:1,55%,2.0%,6.2
+Tomato,Clay,15,35,243,85,Final Stage,"Vegetable Scraps, Compost, Chicken Manure",35:1,50%,2.5%,6.5
+Zucchini,Sandy,30,30,200,140,Final Stage,"Pea Pods, Sugarcane Bagasse, Vegetable Scraps",35:1,50%,2.5%,6.5
+Garlic,Clay,26,34,153,163,Final Stage,"Fruit Scraps, Vegetable Scraps, Tree Leaves",35:1,50%,2.5%,6.5
+Spinach,Sandy,33,70,72,137,Final Stage,"Coffee Grounds, Alfalfa Hay, Seaweed Extract",35:1,50%,2.5%,6.5
+Spinach,Loamy,28,41,200,177,Final Stage,"Seaweed Extract, Chicken Manure, Fruit Scraps",35:1,50%,2.5%,6.5
+Cabbage,Clay,20,55,295,143,Final Stage,"Sugarcane Bagasse, Pea Pods, Corn Stalks",35:1,50%,2.5%,6.5
+Carrot,Loamy,20,75,16,107,Final Stage,"Worm Castings, Corn Stalks, Sugarcane Bagasse",35:1,50%,2.5%,6.5
+Chili,Clay,27,63,128,159,Final Stage,"Seaweed Extract, Coconut Shells, Alfalfa Hay",35:1,50%,2.5%,6.5
+Beetroot,Loamy,33,78,216,66,Growth Stage,"Tree Leaves, Vegetable Scraps, Chicken Manure",30:1,55%,2.0%,6.2
+Mango,Clay,22,43,60,49,Initial Stage,"Fruit Scraps, Worm Castings, Coconut Shells",25:1,60%,1.5%,6.0
+Peas,Loamy,16,55,103,55,Final Stage,"Tree Leaves, Grass Clippings, Compost",35:1,50%,2.5%,6.5
+Zucchini,Loamy,15,74,41,58,Final Stage,"Coconut Shells, Pea Pods, Chicken Manure",35:1,50%,2.5%,6.5
+Tomato,Clay,29,56,24,30,Initial Stage,"Sugarcane Bagasse, Seaweed Extract, Fruit Scraps",25:1,60%,1.5%,6.0
+Carrot,Loamy,15,38,38,148,Final Stage,"Coffee Grounds, Eggshells, Tree Leaves",35:1,50%,2.5%,6.5
+Cabbage,Loamy,19,55,290,64,Final Stage,"Sugarcane Bagasse, Grass Clippings, Fruit Scraps",35:1,50%,2.5%,6.5
+Watermelon,Loamy,30,76,130,88,Growth Stage,"Tree Leaves, Worm Castings, Fruit Scraps",30:1,55%,2.0%,6.2
+Chili,Clay,33,51,228,98,Growth Stage,"Vegetable Scraps, Grass Clippings, Mulch (Wood Chips)",30:1,55%,2.0%,6.2
+Mango,Clay,18,76,107,41,Final Stage,"Chicken Manure, Banana Peels, Alfalfa Hay",35:1,50%,2.5%,6.5
+Chili,Loamy,17,59,171,49,Final Stage,"Fruit Scraps, Alfalfa Hay, Worm Castings",35:1,50%,2.5%,6.5
+Cabbage,Loamy,31,72,101,72,Growth Stage,"Grass Clippings, Fruit Scraps, Seaweed Extract",30:1,55%,2.0%,6.2
+Cucumber,Clay,31,77,11,155,Final Stage,"Pea Pods, Tree Leaves, Alfalfa Hay",35:1,50%,2.5%,6.5
+Zucchini,Clay,26,46,274,79,Growth Stage,"Pea Pods, Seaweed Extract, Coffee Grounds",30:1,55%,2.0%,6.2
+Cucumber,Loamy,28,55,100,58,Initial Stage,"Mulch (Wood Chips), Alfalfa Hay, Grass Clippings",25:1,60%,1.5%,6.0
+Watermelon,Loamy,20,65,43,68,Final Stage,"Corn Stalks, Seaweed Extract, Banana Peels",35:1,50%,2.5%,6.5
+Cauliflower,Loamy,17,30,16,67,Final Stage,"Rice Husk, Eggshells, Chicken Manure",35:1,50%,2.5%,6.5
+Pumpkin,Sandy,23,37,56,113,Growth Stage,"Coconut Shells, Banana Peels, Coffee Grounds",30:1,55%,2.0%,6.2
+Beetroot,Clay,19,78,11,157,Final Stage,"Rice Husk, Fish Emulsion, Banana Peels",35:1,50%,2.5%,6.5
+Peas,Sandy,31,64,79,155,Final Stage,"Eggshells, Fish Emulsion, Corn Stalks",35:1,50%,2.5%,6.5
+Cabbage,Clay,28,44,215,74,Growth Stage,"Coffee Grounds, Worm Castings, Grass Clippings",30:1,55%,2.0%,6.2
+Brinjal,Clay,17,76,263,81,Final Stage,"Eggshells, Alfalfa Hay, Fish Emulsion",35:1,50%,2.5%,6.5
+Chili,Clay,15,51,148,109,Final Stage,"Sugarcane Bagasse, Alfalfa Hay, Eggshells",35:1,50%,2.5%,6.5
+Radish,Clay,34,43,80,153,Final Stage,"Corn Stalks, Coffee Grounds, Mulch (Wood Chips)",35:1,50%,2.5%,6.5
+Broccoli,Clay,15,55,214,148,Final Stage,"Seaweed Extract, Coffee Grounds, Corn Stalks",35:1,50%,2.5%,6.5
+Tomato,Clay,17,57,197,37,Final Stage,"Chicken Manure, Coconut Shells, Sugarcane Bagasse",35:1,50%,2.5%,6.5
+Mango,Clay,32,52,199,114,Growth Stage,"Seaweed Extract, Banana Peels, Rice Husk",30:1,55%,2.0%,6.2
+Spinach,Sandy,24,43,24,158,Final Stage,"Fish Emulsion, Cow Manure, Eggshells",35:1,50%,2.5%,6.5
+Cucumber,Loamy,17,53,88,37,Final Stage,"Sugarcane Bagasse, Pea Pods, Coffee Grounds",35:1,50%,2.5%,6.5
+Mango,Loamy,22,31,267,125,Final Stage,"Chicken Manure, Alfalfa Hay, Banana Peels",35:1,50%,2.5%,6.5
+Cucumber,Sandy,28,74,142,131,Final Stage,"Seaweed Extract, Coffee Grounds, Eggshells",35:1,50%,2.5%,6.5
+Watermelon,Sandy,32,55,58,34,Initial Stage,"Mulch (Wood Chips), Grass Clippings, Corn Stalks",25:1,60%,1.5%,6.0
+Carrot,Sandy,29,43,25,115,Final Stage,"Chicken Manure, Coconut Shells, Sugarcane Bagasse",35:1,50%,2.5%,6.5
+Cabbage,Sandy,16,36,46,63,Final Stage,"Mulch (Wood Chips), Rice Husk, Vegetable Scraps",35:1,50%,2.5%,6.5
+Broccoli,Clay,24,32,287,84,Growth Stage,"Alfalfa Hay, Seaweed Extract, Sugarcane Bagasse",30:1,55%,2.0%,6.2
+Cucumber,Loamy,16,76,265,148,Final Stage,"Chicken Manure, Cow Manure, Corn Stalks",35:1,50%,2.5%,6.5
+Zucchini,Clay,31,52,15,143,Final Stage,"Sugarcane Bagasse, Tree Leaves, Banana Peels",35:1,50%,2.5%,6.5
+Pumpkin,Loamy,22,75,198,174,Final Stage,"Chicken Manure, Coffee Grounds, Corn Stalks",35:1,50%,2.5%,6.5
+Carrot,Loamy,15,72,281,55,Final Stage,"Cow Manure, Banana Peels, Fish Emulsion",35:1,50%,2.5%,6.5
+Cucumber,Sandy,23,76,85,165,Final Stage,"Compost, Worm Castings, Coconut Shells",35:1,50%,2.5%,6.5
+Mango,Clay,25,74,249,76,Growth Stage,"Tree Leaves, Alfalfa Hay, Pea Pods",30:1,55%,2.0%,6.2
+Garlic,Sandy,30,47,269,142,Final Stage,"Seaweed Extract, Corn Stalks, Mulch (Wood Chips)",35:1,50%,2.5%,6.5
+Broccoli,Clay,21,67,116,105,Growth Stage,"Vegetable Scraps, Eggshells, Tree Leaves",30:1,55%,2.0%,6.2
+Cucumber,Loamy,24,64,6,101,Final Stage,"Fruit Scraps, Seaweed Extract, Corn Stalks",35:1,50%,2.5%,6.5
+Broccoli,Sandy,17,44,136,118,Final Stage,"Tree Leaves, Corn Stalks, Fish Emulsion",35:1,50%,2.5%,6.5
+Cabbage,Sandy,32,54,175,75,Growth Stage,"Rice Husk, Fruit Scraps, Mulch (Wood Chips)",30:1,55%,2.0%,6.2
+Lettuce,Loamy,27,66,214,62,Growth Stage,"Pea Pods, Mulch (Wood Chips), Sugarcane Bagasse",30:1,55%,2.0%,6.2
+Broccoli,Loamy,21,57,81,30,Initial Stage,"Vegetable Scraps, Sugarcane Bagasse, Coffee Grounds",25:1,60%,1.5%,6.0
+Peas,Loamy,18,39,222,176,Final Stage,"Worm Castings, Alfalfa Hay, Fruit Scraps",35:1,50%,2.5%,6.5
+Zucchini,Sandy,27,68,102,60,Initial Stage,"Tree Leaves, Cow Manure, Alfalfa Hay",25:1,60%,1.5%,6.0
+Brinjal,Clay,34,46,272,171,Final Stage,"Corn Stalks, Vegetable Scraps, Compost",35:1,50%,2.5%,6.5
+Beetroot,Sandy,15,68,13,82,Final Stage,"Seaweed Extract, Vegetable Scraps, Chicken Manure",35:1,50%,2.5%,6.5
+Cucumber,Clay,22,51,158,77,Growth Stage,"Alfalfa Hay, Sugarcane Bagasse, Chicken Manure",30:1,55%,2.0%,6.2
+Peas,Sandy,28,55,151,98,Growth Stage,"Alfalfa Hay, Grass Clippings, Seaweed Extract",30:1,55%,2.0%,6.2
+Broccoli,Sandy,30,73,107,134,Final Stage,"Grass Clippings, Alfalfa Hay, Fish Emulsion",35:1,50%,2.5%,6.5
+Chili,Loamy,28,54,187,119,Growth Stage,"Coffee Grounds, Tree Leaves, Vegetable Scraps",30:1,55%,2.0%,6.2
+Zucchini,Clay,26,46,97,92,Growth Stage,"Vegetable Scraps, Banana Peels, Coconut Shells",30:1,55%,2.0%,6.2
+Cucumber,Sandy,33,42,130,102,Growth Stage,"Tree Leaves, Compost, Coconut Shells",30:1,55%,2.0%,6.2
+Mango,Sandy,29,49,292,118,Growth Stage,"Seaweed Extract, Fish Emulsion, Tree Leaves",30:1,55%,2.0%,6.2
+Watermelon,Loamy,16,54,170,42,Final Stage,"Coffee Grounds, Mulch (Wood Chips), Corn Stalks",35:1,50%,2.5%,6.5
+Carrot,Loamy,16,33,182,102,Final Stage,"Banana Peels, Pea Pods, Alfalfa Hay",35:1,50%,2.5%,6.5
+Pumpkin,Clay,33,39,38,106,Final Stage,"Corn Stalks, Vegetable Scraps, Tree Leaves",35:1,50%,2.5%,6.5
+Peas,Sandy,31,32,14,97,Final Stage,"Fruit Scraps, Vegetable Scraps, Banana Peels",35:1,50%,2.5%,6.5
+Tomato,Clay,34,70,3,127,Final Stage,"Worm Castings, Seaweed Extract, Pea Pods",35:1,50%,2.5%,6.5
+Zucchini,Sandy,24,74,209,154,Final Stage,"Vegetable Scraps, Compost, Sugarcane Bagasse",35:1,50%,2.5%,6.5
+Cucumber,Clay,20,47,160,131,Final Stage,"Tree Leaves, Eggshells, Worm Castings",35:1,50%,2.5%,6.5
+Potato,Loamy,29,76,15,161,Final Stage,"Pea Pods, Corn Stalks, Compost",35:1,50%,2.5%,6.5
+Cabbage,Sandy,25,65,107,131,Final Stage,"Sugarcane Bagasse, Coffee Grounds, Tree Leaves",35:1,50%,2.5%,6.5
+Peas,Clay,19,76,226,48,Final Stage,"Tree Leaves, Vegetable Scraps, Corn Stalks",35:1,50%,2.5%,6.5
+Cucumber,Loamy,15,51,169,111,Final Stage,"Sugarcane Bagasse, Chicken Manure, Worm Castings",35:1,50%,2.5%,6.5
+Peas,Loamy,22,63,33,170,Final Stage,"Seaweed Extract, Grass Clippings, Alfalfa Hay",35:1,50%,2.5%,6.5
+Watermelon,Clay,26,76,250,52,Initial Stage,"Coffee Grounds, Corn Stalks, Cow Manure",25:1,60%,1.5%,6.0
+Watermelon,Sandy,26,37,246,112,Growth Stage,"Corn Stalks, Compost, Seaweed Extract",30:1,55%,2.0%,6.2
+Carrot,Sandy,19,69,268,138,Final Stage,"Alfalfa Hay, Fish Emulsion, Rice Husk",35:1,50%,2.5%,6.5
+Spinach,Loamy,21,78,140,104,Growth Stage,"Tree Leaves, Fish Emulsion, Chicken Manure",30:1,55%,2.0%,6.2
+Peas,Sandy,18,73,273,158,Final Stage,"Vegetable Scraps, Seaweed Extract, Worm Castings",35:1,50%,2.5%,6.5
+Cucumber,Sandy,20,48,95,117,Growth Stage,"Grass Clippings, Compost, Coconut Shells",30:1,55%,2.0%,6.2
+Peas,Sandy,27,71,226,83,Growth Stage,"Cow Manure, Coconut Shells, Coffee Grounds",30:1,55%,2.0%,6.2
+Garlic,Loamy,34,70,38,118,Final Stage,"Rice Husk, Banana Peels, Tree Leaves",35:1,50%,2.5%,6.5
+Pumpkin,Clay,29,66,28,172,Final Stage,"Mulch (Wood Chips), Coconut Shells, Compost",35:1,50%,2.5%,6.5
+Garlic,Sandy,17,35,244,94,Final Stage,"Chicken Manure, Coconut Shells, Tree Leaves",35:1,50%,2.5%,6.5
+Cauliflower,Loamy,22,55,235,105,Growth Stage,"Compost, Coconut Shells, Corn Stalks",30:1,55%,2.0%,6.2
+Cabbage,Loamy,34,63,184,172,Final Stage,"Fruit Scraps, Corn Stalks, Chicken Manure",35:1,50%,2.5%,6.5
+Potato,Clay,30,74,271,178,Final Stage,"Seaweed Extract, Coconut Shells, Mulch (Wood Chips)",35:1,50%,2.5%,6.5
+Cucumber,Sandy,27,35,235,176,Final Stage,"Vegetable Scraps, Worm Castings, Seaweed Extract",35:1,50%,2.5%,6.5
+Radish,Sandy,32,66,238,89,Growth Stage,"Fish Emulsion, Grass Clippings, Worm Castings",30:1,55%,2.0%,6.2
+Onion,Clay,24,62,265,122,Final Stage,"Tree Leaves, Corn Stalks, Seaweed Extract",35:1,50%,2.5%,6.5
+Garlic,Clay,33,51,64,78,Growth Stage,"Seaweed Extract, Chicken Manure, Sugarcane Bagasse",30:1,55%,2.0%,6.2
+Zucchini,Loamy,31,50,176,64,Growth Stage,"Sugarcane Bagasse, Alfalfa Hay, Coconut Shells",30:1,55%,2.0%,6.2
+Onion,Loamy,33,35,2,131,Final Stage,"Cow Manure, Corn Stalks, Eggshells",35:1,50%,2.5%,6.5
+Cabbage,Clay,19,35,141,40,Final Stage,"Corn Stalks, Compost, Fish Emulsion",35:1,50%,2.5%,6.5
+Cauliflower,Sandy,23,77,157,128,Final Stage,"Seaweed Extract, Corn Stalks, Fish Emulsion",35:1,50%,2.5%,6.5
+Tomato,Loamy,26,33,145,139,Final Stage,"Chicken Manure, Pea Pods, Fruit Scraps",35:1,50%,2.5%,6.5
+Peas,Loamy,15,59,292,103,Final Stage,"Coconut Shells, Sugarcane Bagasse, Fish Emulsion",35:1,50%,2.5%,6.5
+Peas,Sandy,15,40,152,38,Final Stage,"Compost, Mulch (Wood Chips), Vegetable Scraps",35:1,50%,2.5%,6.5
+Watermelon,Loamy,29,59,192,32,Initial Stage,"Cow Manure, Seaweed Extract, Pea Pods",25:1,60%,1.5%,6.0
+Cabbage,Sandy,16,60,72,114,Final Stage,"Sugarcane Bagasse, Pea Pods, Fish Emulsion",35:1,50%,2.5%,6.5
+Pumpkin,Sandy,30,53,139,55,Initial Stage,"Compost, Chicken Manure, Mulch (Wood Chips)",25:1,60%,1.5%,6.0
+Spinach,Sandy,22,38,186,101,Growth Stage,"Tree Leaves, Fish Emulsion, Grass Clippings",30:1,55%,2.0%,6.2
+Tomato,Clay,27,32,292,77,Growth Stage,"Alfalfa Hay, Pea Pods, Seaweed Extract",30:1,55%,2.0%,6.2
+Carrot,Clay,15,60,60,146,Final Stage,"Compost, Rice Husk, Fruit Scraps",35:1,50%,2.5%,6.5
+Brinjal,Clay,30,69,197,41,Initial Stage,"Coconut Shells, Mulch (Wood Chips), Alfalfa Hay",25:1,60%,1.5%,6.0
+Chili,Sandy,21,66,294,162,Final Stage,"Fruit Scraps, Eggshells, Grass Clippings",35:1,50%,2.5%,6.5
+Carrot,Sandy,19,65,10,77,Final Stage,"Tree Leaves, Seaweed Extract, Cow Manure",35:1,50%,2.5%,6.5
+Cauliflower,Clay,17,53,61,66,Final Stage,"Corn Stalks, Mulch (Wood Chips), Banana Peels",35:1,50%,2.5%,6.5
+Cauliflower,Loamy,26,60,225,73,Growth Stage,"Sugarcane Bagasse, Rice Husk, Fish Emulsion",30:1,55%,2.0%,6.2
+Cucumber,Sandy,30,35,152,44,Growth Stage,"Coffee Grounds, Vegetable Scraps, Fish Emulsion",30:1,55%,2.0%,6.2
+Chili,Loamy,33,31,198,72,Growth Stage,"Mulch (Wood Chips), Cow Manure, Fish Emulsion",30:1,55%,2.0%,6.2
+Chili,Loamy,19,49,51,116,Final Stage,"Grass Clippings, Sugarcane Bagasse, Fish Emulsion",35:1,50%,2.5%,6.5
+Peas,Sandy,28,57,259,99,Growth Stage,"Fish Emulsion, Compost, Rice Husk",30:1,55%,2.0%,6.2
+Broccoli,Sandy,19,40,58,75,Final Stage,"Compost, Cow Manure, Eggshells",35:1,50%,2.5%,6.5
+Zucchini,Loamy,29,33,71,137,Final Stage,"Tree Leaves, Eggshells, Cow Manure",35:1,50%,2.5%,6.5
+Carrot,Loamy,31,44,147,152,Final Stage,"Sugarcane Bagasse, Vegetable Scraps, Banana Peels",35:1,50%,2.5%,6.5
+Broccoli,Clay,28,35,62,50,Growth Stage,"Worm Castings, Tree Leaves, Sugarcane Bagasse",30:1,55%,2.0%,6.2
+Mango,Clay,34,78,242,136,Final Stage,"Pea Pods, Chicken Manure, Alfalfa Hay",35:1,50%,2.5%,6.5
+Zucchini,Sandy,19,59,106,109,Final Stage,"Cow Manure, Worm Castings, Alfalfa Hay",35:1,50%,2.5%,6.5
+Broccoli,Clay,26,67,225,76,Growth Stage,"Chicken Manure, Pea Pods, Worm Castings",30:1,55%,2.0%,6.2
+Watermelon,Clay,30,31,217,146,Final Stage,"Alfalfa Hay, Fruit Scraps, Compost",35:1,50%,2.5%,6.5
+Beetroot,Clay,30,44,240,153,Final Stage,"Fruit Scraps, Mulch (Wood Chips), Worm Castings",35:1,50%,2.5%,6.5
+Watermelon,Clay,21,40,258,172,Final Stage,"Coffee Grounds, Sugarcane Bagasse, Vegetable Scraps",35:1,50%,2.5%,6.5
+Cauliflower,Loamy,18,37,261,54,Final Stage,"Chicken Manure, Eggshells, Cow Manure",35:1,50%,2.5%,6.5
+Brinjal,Sandy,15,55,4,65,Final Stage,"Vegetable Scraps, Fish Emulsion, Tree Leaves",35:1,50%,2.5%,6.5
+Cabbage,Clay,19,74,260,80,Final Stage,"Worm Castings, Grass Clippings, Corn Stalks",35:1,50%,2.5%,6.5
+Cauliflower,Loamy,24,73,53,44,Initial Stage,"Vegetable Scraps, Tree Leaves, Corn Stalks",25:1,60%,1.5%,6.0
+Spinach,Loamy,19,34,46,97,Final Stage,"Chicken Manure, Cow Manure, Sugarcane Bagasse",35:1,50%,2.5%,6.5
+Spinach,Loamy,18,35,214,50,Final Stage,"Chicken Manure, Seaweed Extract, Pea Pods",35:1,50%,2.5%,6.5
+Peas,Clay,16,55,176,170,Final Stage,"Seaweed Extract, Compost, Mulch (Wood Chips)",35:1,50%,2.5%,6.5
+Tomato,Clay,34,33,8,48,Final Stage,"Alfalfa Hay, Rice Husk, Coffee Grounds",35:1,50%,2.5%,6.5
+Carrot,Sandy,24,48,98,63,Growth Stage,"Fish Emulsion, Cow Manure, Mulch (Wood Chips)",30:1,55%,2.0%,6.2
+Mango,Clay,33,49,19,107,Final Stage,"Grass Clippings, Sugarcane Bagasse, Fish Emulsion",35:1,50%,2.5%,6.5
+Mango,Clay,15,62,240,154,Final Stage,"Sugarcane Bagasse, Alfalfa Hay, Coffee Grounds",35:1,50%,2.5%,6.5
+Radish,Loamy,19,49,60,146,Final Stage,"Tree Leaves, Rice Husk, Grass Clippings",35:1,50%,2.5%,6.5
+Pumpkin,Sandy,27,78,177,81,Growth Stage,"Eggshells, Grass Clippings, Worm Castings",30:1,55%,2.0%,6.2
+Cauliflower,Clay,18,41,61,56,Final Stage,"Compost, Corn Stalks, Alfalfa Hay",35:1,50%,2.5%,6.5
+Mango,Clay,30,76,144,64,Growth Stage,"Corn Stalks, Fish Emulsion, Rice Husk",30:1,55%,2.0%,6.2
+Carrot,Loamy,30,30,215,165,Final Stage,"Fish Emulsion, Corn Stalks, Coffee Grounds",35:1,50%,2.5%,6.5
+Broccoli,Loamy,16,55,2,173,Final Stage,"Seaweed Extract, Fruit Scraps, Vegetable Scraps",35:1,50%,2.5%,6.5
+Lettuce,Clay,31,43,159,135,Final Stage,"Fruit Scraps, Compost, Rice Husk",35:1,50%,2.5%,6.5
+Tomato,Sandy,34,67,226,175,Final Stage,"Grass Clippings, Banana Peels, Fruit Scraps",35:1,50%,2.5%,6.5
+Brinjal,Sandy,26,66,268,31,Initial Stage,"Coffee Grounds, Coconut Shells, Sugarcane Bagasse",25:1,60%,1.5%,6.0
+Pumpkin,Loamy,32,40,119,106,Growth Stage,"Mulch (Wood Chips), Banana Peels, Worm Castings",30:1,55%,2.0%,6.2
+Cabbage,Loamy,17,65,88,161,Final Stage,"Coconut Shells, Worm Castings, Corn Stalks",35:1,50%,2.5%,6.5
+Carrot,Clay,15,42,67,119,Final Stage,"Vegetable Scraps, Fruit Scraps, Alfalfa Hay",35:1,50%,2.5%,6.5
+Cucumber,Loamy,15,72,97,118,Final Stage,"Sugarcane Bagasse, Vegetable Scraps, Compost",35:1,50%,2.5%,6.5
+Cabbage,Clay,33,32,266,123,Final Stage,"Tree Leaves, Vegetable Scraps, Worm Castings",35:1,50%,2.5%,6.5
+Garlic,Sandy,25,62,104,36,Initial Stage,"Coconut Shells, Rice Husk, Fruit Scraps",25:1,60%,1.5%,6.0
+Brinjal,Sandy,19,35,122,124,Final Stage,"Tree Leaves, Chicken Manure, Compost",35:1,50%,2.5%,6.5
+Zucchini,Clay,26,79,28,137,Final Stage,"Sugarcane Bagasse, Fruit Scraps, Coffee Grounds",35:1,50%,2.5%,6.5
+Pumpkin,Loamy,17,39,136,103,Final Stage,"Tree Leaves, Vegetable Scraps, Cow Manure",35:1,50%,2.5%,6.5
+Brinjal,Sandy,15,34,194,68,Final Stage,"Worm Castings, Tree Leaves, Banana Peels",35:1,50%,2.5%,6.5
+Mango,Loamy,15,52,225,170,Final Stage,"Banana Peels, Corn Stalks, Worm Castings",35:1,50%,2.5%,6.5
+Pumpkin,Sandy,22,39,169,100,Growth Stage,"Grass Clippings, Alfalfa Hay, Fruit Scraps",30:1,55%,2.0%,6.2
+Cucumber,Clay,24,73,8,85,Final Stage,"Coffee Grounds, Sugarcane Bagasse, Mulch (Wood Chips)",35:1,50%,2.5%,6.5
+Pumpkin,Clay,25,31,39,71,Final Stage,"Rice Husk, Alfalfa Hay, Tree Leaves",35:1,50%,2.5%,6.5
+Carrot,Clay,26,42,24,65,Final Stage,"Eggshells, Sugarcane Bagasse, Worm Castings",35:1,50%,2.5%,6.5
+Potato,Sandy,27,69,260,113,Growth Stage,"Coffee Grounds, Worm Castings, Coconut Shells",30:1,55%,2.0%,6.2
+Zucchini,Loamy,26,31,225,147,Final Stage,"Vegetable Scraps, Pea Pods, Coffee Grounds",35:1,50%,2.5%,6.5
+Tomato,Loamy,28,49,123,36,Initial Stage,"Chicken Manure, Worm Castings, Vegetable Scraps",25:1,60%,1.5%,6.0
+Beetroot,Loamy,16,30,37,83,Final Stage,"Mulch (Wood Chips), Pea Pods, Banana Peels",35:1,50%,2.5%,6.5
+Pumpkin,Sandy,33,66,250,158,Final Stage,"Worm Castings, Rice Husk, Sugarcane Bagasse",35:1,50%,2.5%,6.5
+Lettuce,Sandy,32,38,175,149,Final Stage,"Cow Manure, Eggshells, Sugarcane Bagasse",35:1,50%,2.5%,6.5
+Potato,Sandy,17,46,89,135,Final Stage,"Chicken Manure, Alfalfa Hay, Corn Stalks",35:1,50%,2.5%,6.5
+Peas,Sandy,31,38,36,76,Final Stage,"Eggshells, Coconut Shells, Banana Peels",35:1,50%,2.5%,6.5
+Peas,Sandy,22,40,175,152,Final Stage,"Pea Pods, Banana Peels, Fruit Scraps",35:1,50%,2.5%,6.5
+Onion,Loamy,24,44,283,170,Final Stage,"Mulch (Wood Chips), Coconut Shells, Compost",35:1,50%,2.5%,6.5
+Pumpkin,Sandy,16,53,80,148,Final Stage,"Cow Manure, Tree Leaves, Rice Husk",35:1,50%,2.5%,6.5
+Peas,Sandy,33,67,113,179,Final Stage,"Chicken Manure, Grass Clippings, Worm Castings",35:1,50%,2.5%,6.5
+Pumpkin,Loamy,23,64,39,147,Final Stage,"Compost, Mulch (Wood Chips), Coconut Shells",35:1,50%,2.5%,6.5
+Broccoli,Sandy,21,59,223,50,Initial Stage,"Cow Manure, Vegetable Scraps, Coffee Grounds",25:1,60%,1.5%,6.0
+Beetroot,Loamy,18,60,114,166,Final Stage,"Mulch (Wood Chips), Chicken Manure, Alfalfa Hay",35:1,50%,2.5%,6.5
+Peas,Loamy,32,78,185,55,Initial Stage,"Tree Leaves, Coconut Shells, Pea Pods",25:1,60%,1.5%,6.0
+Beetroot,Clay,27,34,55,38,Growth Stage,"Compost, Chicken Manure, Coconut Shells",30:1,55%,2.0%,6.2
+Brinjal,Clay,25,73,39,44,Initial Stage,"Pea Pods, Cow Manure, Worm Castings",25:1,60%,1.5%,6.0
+Potato,Clay,18,79,39,39,Final Stage,"Worm Castings, Coffee Grounds, Coconut Shells",35:1,50%,2.5%,6.5
+Cucumber,Clay,18,43,236,151,Final Stage,"Grass Clippings, Mulch (Wood Chips), Compost",35:1,50%,2.5%,6.5
+Broccoli,Sandy,24,40,288,150,Final Stage,"Fish Emulsion, Alfalfa Hay, Grass Clippings",35:1,50%,2.5%,6.5
+Potato,Clay,19,38,261,154,Final Stage,"Sugarcane Bagasse, Mulch (Wood Chips), Seaweed Extract",35:1,50%,2.5%,6.5
+Brinjal,Loamy,23,63,215,101,Growth Stage,"Corn Stalks, Vegetable Scraps, Eggshells",30:1,55%,2.0%,6.2
+Cucumber,Sandy,17,41,146,78,Final Stage,"Eggshells, Sugarcane Bagasse, Tree Leaves",35:1,50%,2.5%,6.5
+Brinjal,Clay,31,64,167,120,Growth Stage,"Tree Leaves, Mulch (Wood Chips), Grass Clippings",30:1,55%,2.0%,6.2
+Tomato,Loamy,17,64,91,66,Final Stage,"Chicken Manure, Fish Emulsion, Seaweed Extract",35:1,50%,2.5%,6.5
+Carrot,Sandy,30,30,58,97,Growth Stage,"Fish Emulsion, Banana Peels, Pea Pods",30:1,55%,2.0%,6.2
+Cauliflower,Sandy,18,69,58,79,Final Stage,"Coconut Shells, Fruit Scraps, Pea Pods",35:1,50%,2.5%,6.5
+Broccoli,Clay,32,51,168,48,Initial Stage,"Cow Manure, Banana Peels, Corn Stalks",25:1,60%,1.5%,6.0
+Cauliflower,Sandy,31,58,268,129,Final Stage,"Worm Castings, Eggshells, Sugarcane Bagasse",35:1,50%,2.5%,6.5
+Carrot,Loamy,21,37,44,89,Final Stage,"Eggshells, Vegetable Scraps, Coconut Shells",35:1,50%,2.5%,6.5
+Carrot,Sandy,19,40,180,118,Final Stage,"Fish Emulsion, Seaweed Extract, Coffee Grounds",35:1,50%,2.5%,6.5
+Brinjal,Loamy,26,70,169,175,Final Stage,"Eggshells, Worm Castings, Pea Pods",35:1,50%,2.5%,6.5
+Cauliflower,Sandy,31,66,190,176,Final Stage,"Cow Manure, Corn Stalks, Rice Husk",35:1,50%,2.5%,6.5
+Garlic,Clay,27,43,154,98,Growth Stage,"Seaweed Extract, Coconut Shells, Fruit Scraps",30:1,55%,2.0%,6.2
+Tomato,Loamy,17,59,187,78,Final Stage,"Alfalfa Hay, Vegetable Scraps, Mulch (Wood Chips)",35:1,50%,2.5%,6.5
+Brinjal,Sandy,23,64,6,137,Final Stage,"Corn Stalks, Banana Peels, Alfalfa Hay",35:1,50%,2.5%,6.5
+Beetroot,Sandy,31,50,132,148,Final Stage,"Grass Clippings, Mulch (Wood Chips), Alfalfa Hay",35:1,50%,2.5%,6.5
+Onion,Sandy,31,66,234,178,Final Stage,"Rice Husk, Eggshells, Tree Leaves",35:1,50%,2.5%,6.5
+Carrot,Loamy,34,34,44,179,Final Stage,"Alfalfa Hay, Cow Manure, Chicken Manure",35:1,50%,2.5%,6.5
+Cucumber,Loamy,30,48,248,66,Growth Stage,"Sugarcane Bagasse, Fruit Scraps, Chicken Manure",30:1,55%,2.0%,6.2
+Brinjal,Loamy,27,43,30,172,Final Stage,"Coffee Grounds, Eggshells, Pea Pods",35:1,50%,2.5%,6.5
+Chili,Clay,33,55,22,40,Initial Stage,"Rice Husk, Tree Leaves, Eggshells",25:1,60%,1.5%,6.0
+Pumpkin,Clay,31,33,159,167,Final Stage,"Alfalfa Hay, Coffee Grounds, Corn Stalks",35:1,50%,2.5%,6.5
+Chili,Loamy,18,54,157,107,Final Stage,"Sugarcane Bagasse, Coffee Grounds, Rice Husk",35:1,50%,2.5%,6.5
+Zucchini,Sandy,26,74,38,106,Final Stage,"Pea Pods, Chicken Manure, Mulch (Wood Chips)",35:1,50%,2.5%,6.5
+Radish,Clay,23,71,81,31,Initial Stage,"Chicken Manure, Rice Husk, Alfalfa Hay",25:1,60%,1.5%,6.0
+Radish,Loamy,33,54,257,93,Growth Stage,"Mulch (Wood Chips), Fish Emulsion, Tree Leaves",30:1,55%,2.0%,6.2
+Spinach,Sandy,26,47,205,64,Growth Stage,"Rice Husk, Coffee Grounds, Compost",30:1,55%,2.0%,6.2
+Watermelon,Clay,23,69,76,36,Initial Stage,"Banana Peels, Tree Leaves, Corn Stalks",25:1,60%,1.5%,6.0
+Tomato,Sandy,21,37,11,114,Final Stage,"Eggshells, Mulch (Wood Chips), Cow Manure",35:1,50%,2.5%,6.5
+Watermelon,Sandy,28,68,294,175,Final Stage,"Fish Emulsion, Pea Pods, Grass Clippings",35:1,50%,2.5%,6.5
+Radish,Sandy,34,69,223,96,Growth Stage,"Fruit Scraps, Rice Husk, Pea Pods",30:1,55%,2.0%,6.2
+Onion,Sandy,33,43,12,71,Final Stage,"Vegetable Scraps, Mulch (Wood Chips), Fruit Scraps",35:1,50%,2.5%,6.5
+Broccoli,Clay,29,61,45,147,Final Stage,"Sugarcane Bagasse, Fruit Scraps, Pea Pods",35:1,50%,2.5%,6.5
+Chili,Clay,30,67,154,154,Final Stage,"Alfalfa Hay, Grass Clippings, Chicken Manure",35:1,50%,2.5%,6.5
+Carrot,Clay,19,62,112,53,Final Stage,"Eggshells, Alfalfa Hay, Banana Peels",35:1,50%,2.5%,6.5
+Zucchini,Loamy,17,52,232,75,Final Stage,"Coffee Grounds, Coconut Shells, Banana Peels",35:1,50%,2.5%,6.5
+Pumpkin,Clay,26,44,16,48,Initial Stage,"Grass Clippings, Alfalfa Hay, Compost",25:1,60%,1.5%,6.0
+Tomato,Sandy,34,62,222,97,Growth Stage,"Coffee Grounds, Mulch (Wood Chips), Eggshells",30:1,55%,2.0%,6.2
+Cauliflower,Clay,18,54,187,131,Final Stage,"Cow Manure, Fish Emulsion, Sugarcane Bagasse",35:1,50%,2.5%,6.5
+Broccoli,Sandy,30,46,162,71,Growth Stage,"Chicken Manure, Worm Castings, Alfalfa Hay",30:1,55%,2.0%,6.2
+Chili,Loamy,21,62,73,61,Growth Stage,"Eggshells, Vegetable Scraps, Chicken Manure",30:1,55%,2.0%,6.2
+Peas,Sandy,27,76,232,138,Final Stage,"Alfalfa Hay, Cow Manure, Vegetable Scraps",35:1,50%,2.5%,6.5
+Beetroot,Sandy,24,31,223,65,Growth Stage,"Grass Clippings, Rice Husk, Fish Emulsion",30:1,55%,2.0%,6.2
+Spinach,Sandy,21,43,59,126,Final Stage,"Vegetable Scraps, Banana Peels, Chicken Manure",35:1,50%,2.5%,6.5
+Peas,Loamy,28,69,221,160,Final Stage,"Eggshells, Fish Emulsion, Coffee Grounds",35:1,50%,2.5%,6.5
+Lettuce,Clay,19,69,36,102,Final Stage,"Mulch (Wood Chips), Tree Leaves, Grass Clippings",35:1,50%,2.5%,6.5
+Spinach,Clay,17,68,277,165,Final Stage,"Mulch (Wood Chips), Compost, Grass Clippings",35:1,50%,2.5%,6.5
+Broccoli,Loamy,25,35,195,126,Final Stage,"Corn Stalks, Fish Emulsion, Alfalfa Hay",35:1,50%,2.5%,6.5
+Potato,Sandy,25,35,241,152,Final Stage,"Cow Manure, Mulch (Wood Chips), Worm Castings",35:1,50%,2.5%,6.5
+Brinjal,Clay,32,32,218,99,Growth Stage,"Fruit Scraps, Rice Husk, Mulch (Wood Chips)",30:1,55%,2.0%,6.2
